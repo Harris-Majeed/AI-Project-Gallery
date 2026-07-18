@@ -37,3 +37,5 @@ This Repository Contains All the Artificial Intelligence Projects such as Machin
 ---
 
 > For More Projects: [**Follow me on GitHub**](https://github.com/Harris-Majeed)
+
+<!-- last updated -->
