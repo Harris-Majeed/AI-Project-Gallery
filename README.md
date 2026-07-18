@@ -28,7 +28,7 @@ This Repository Contains All the Artificial Intelligence Projects such as Machin
 | 22 | Spam E-Mail Detection | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Spam-Email-Detection) | ✔ |
 | 23 | Student Performance Prediction | Regression | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Student-Perfomance-Prediction) | ✔ |
 | 24 | Text Generation using Google Gemini | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Getting-Started-with-Gemini) | |
-| 25 | Virat Kohli Performance Data Analysis | MS Power BI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Virat-Kohli-Score-Analytics) | |
+| 25 | Virat  Kohli Performance Data Analysis | MS Power BI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Virat-Kohli-Score-Analytics) | |
 | 26 | Market Insight | Agentic Workflows | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/MarketInsight) | ✔ |
 | 27 | Synapse | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Synapse-Daily) | |
 | 28 | Doclify: CLI for Docs | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Doclify) | ✔ |
