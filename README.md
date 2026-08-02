@@ -21,20 +21,19 @@ This Repository Contains All the Artificial Intelligence Projects such as Machin
 | 15 | Gold Price Prediction | Regression | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Gold-Price-Prediction) | |
 | 16 | Hand Tracking using OpenCV | Computer Vision | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Hand-Tracking-Using-Opencv) | |
 | 17 | Heart Disease Prediction | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Heart-Disease-Prediction) | ✔ |
-| 18 | Image Scraper | Web Scraping | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/End-to-End-Image-Scraping) | |
-| 19 | Medical Assistant using Gemini Pro | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Medical-Assisstant) | |
-| 20 | Medicine Recognition System | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Medicine-Recognition-System) | |
-| 21 | Movie Recommendation System | Recommendation System | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/End-to-End-Movie-Recommendation-System) | ✔ |
-| 22 | Password Strength Prediction | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Checking-Password-Strength-using-Machine-Learning) | |
-| 23 | Rock vs Mine Detection | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Rock-and-Mine-Detection) | |
-| 24 | Spam E-Mail Detection | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Spam-Email-Detection) | ✔ |
-| 25 | Student Performance Prediction | Regression | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Student-Perfomance-Prediction) | ✔ |
-| 26 | Text Generation using Google Gemini | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Getting-Started-with-Gemini) | |
-| 27 | Virat  Kohli Performance Data Analysis | MS Power BI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Virat-Kohli-Score-Analytics) | |
-| 28 | Market Insight | Agentic Workflows | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/MarketInsight) | ✔ |
-| 29 | Synapse | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Synapse-Daily) | |
-| 30 | Doclify: CLI for Docs | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Doclify) | ✔ |
-| 31 | Multi Agentic Blog Generation | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Multi-Agentic-Blog-Generation) | ✔ |
+| 18 | Medical Assistant using Gemini Pro | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Medical-Assisstant) | |
+| 19 | Medicine Recognition System | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Medicine-Recognition-System) | |
+| 20 | Movie Recommendation System | Recommendation System | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/End-to-End-Movie-Recommendation-System) | ✔ |
+| 21 | Password Strength Prediction | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Checking-Password-Strength-using-Machine-Learning) | |
+| 22 | Rock vs Mine Detection | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Rock-and-Mine-Detection) | |
+| 23 | Spam E-Mail Detection | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Spam-Email-Detection) | ✔ |
+| 24 | Student Performance Prediction | Regression | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Student-Perfomance-Prediction) | ✔ |
+| 25 | Text Generation using Google Gemini | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Getting-Started-with-Gemini) | |
+| 26 | Virat  Kohli Performance Data Analysis | MS Power BI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Virat-Kohli-Score-Analytics) | |
+| 27 | Market Insight | Agentic Workflows | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/MarketInsight) | ✔ |
+| 28 | Synapse | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Synapse-Daily) | |
+| 29 | Doclify: CLI for Docs | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Doclify) | ✔ |
+| 30 | Multi Agentic Blog Generation | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Harris-Majeed/Multi-Agentic-Blog-Generation) | ✔ |
 
 ---
 
